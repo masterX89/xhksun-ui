@@ -1,0 +1,12 @@
+{
+  "name": "@xhksun-ui/utils",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Hank Xia",
+  "license": "MIT",
+  "keywords": [],
+  "main": "index.ts",
+  "scripts": {
+    "test": "vitest"
+  }
+}
